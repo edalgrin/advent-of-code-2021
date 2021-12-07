@@ -46,4 +46,6 @@ for (let j = 0; j < reportInputLength; j++) {
 const gammaDec = parseInt(gamma.join(""), 2);
 const epsilonDec = parseInt(epsilon.join(""), 2);
 
+console.log("%cDAY 3", "color:green");
 console.log(gammaDec * epsilonDec);
+console.log("\n");

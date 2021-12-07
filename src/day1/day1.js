@@ -12,6 +12,6 @@ report.forEach((number, index) => {
   counter = counter + (index && number > report[index - 1] ? 1 : 0);
 });
 
-console.log("DAY 1");
+console.log("%cDAY 1", "color:green");
 console.log(counter);
 console.log("\n");

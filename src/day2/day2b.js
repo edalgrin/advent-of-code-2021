@@ -37,4 +37,6 @@ for (let i = 0; i < report.length; i++) {
   // console.log(command);
 }
 
+console.log("%cDAY 2B", "color:green");
 console.log(x * y);
+console.log("\n");

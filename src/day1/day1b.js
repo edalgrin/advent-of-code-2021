@@ -21,4 +21,6 @@ for (let i = 0; i < report.length - measurementGroupSize; i++) {
   }
 }
 
+console.log("%cDAY 1B", "color:green");
 console.log(counter);
+console.log("\n");
