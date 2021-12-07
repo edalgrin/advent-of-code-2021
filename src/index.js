@@ -7,6 +7,7 @@ import "./day1/day1b";
 import "./day2/day2";
 import "./day2/day2b";
 import "./day3/day3";
+import "./day3/day3b";
 
 ReactDOM.render(
   <h1>Look at the console 👇</h1>,
