@@ -1,4 +1,4 @@
-export default `
+const reportRaw = `
 forward 2
 down 7
 down 8
@@ -1000,3 +1000,4 @@ up 4
 forward 3
 forward 6
 `;
+export default reportRaw;

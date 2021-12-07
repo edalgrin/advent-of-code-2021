@@ -30,6 +30,8 @@ for (let i = 0; i < report.length; i++) {
     case "up":
       y = y - parseInt(command[1]);
       break;
+    default:
+      break;
   }
   // console.log(command);
 }

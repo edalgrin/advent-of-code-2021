@@ -1,4 +1,4 @@
-export default `
+const reportRaw = `
 111011110101
 011000111010
 100000010010
@@ -1000,3 +1000,4 @@ export default `
 100111100101
 001101100001
 `;
+export default reportRaw;
