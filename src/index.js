@@ -10,7 +10,8 @@ import "./index.css";
 // import "./day3/day3b";
 // import "./day4/day4";
 // import "./day4/day4b";
-import "./day5/day5";
+// import "./day5/day5";
+import "./day5/day5b";
 
 ReactDOM.render(
   <h1>Look at the console 👇</h1>,
